@@ -1,4 +1,4 @@
-module example.com/mod
+module golangapi
 
 go 1.23.6
 
